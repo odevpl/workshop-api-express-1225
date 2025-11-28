@@ -1,7 +1,11 @@
 # Warsztaty REST API z Express.js
 
 Cześć!
-Witam Cię na warsztacie REST API z Express.js. To repozytorium będzie używane podczas warsztatu Express.js.
+Witamy Cię na warsztacie REST API z Express.js. To repozytorium będzie używane podczas warsztatu Express.js.
+
+W razie jakichkolwiek pytań możesz napisać do mnie na adres:
+Patryk Tokarz
+patryksages@odev.pl
 
 ## Co przygotować przed zajęciami?
 
