@@ -56,8 +56,4 @@
 
 - Dobre praktyki testowania API
 
-8. Mini-projekt końcowy
-
-- Wspólne stworzenie prostego CRUD API
-
-- Podsumowanie i Q&A
+8. Podsumowanie i Q&A
