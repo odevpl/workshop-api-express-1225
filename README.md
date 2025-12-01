@@ -33,6 +33,14 @@ https://code.visualstudio.com/download
 Narzędziem komunikacji z naszym programem będzie Postman. Najnowszą wersję możesz pobrać z linku poniżej:
 https://www.postman.com/downloads/
 
+## O co warto zadbać przed szkoleniem
+
+1. Warto przygotować spokojne miejsce, notatnik oraz coś do pisania
+2. Stabilne połączenie internetowe
+3. Większy monitor lub dodatkowy monitor, jeśli używamy laptopa
+4. Sprawny mikrofon jest niezbędny
+5. Kamerka nie jest wymagana, ale mile widziana
+
 # Agenda
 
 Zapoznaj się z agendą w linku poniżej
