@@ -33,6 +33,15 @@ https://code.visualstudio.com/download
 Narzędziem komunikacji z naszym programem będzie Postman. Najnowszą wersję możesz pobrać z linku poniżej:
 https://www.postman.com/downloads/
 
+## GitBash - instalacja
+
+Jeśli nie jesteś biegłą osobą w temacie terminali i korzystasz z Windowsa, pomocny będzie terminal GitBash.
+Poniżej link dla użytkowników windowsa:
+
+https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe
+
+Systemy MacOs oraz Linux mają bardzo przyjazne terminale, więc tu sugeruję pozostanie przy domyślnych terminalach.
+
 ## O co warto zadbać przed szkoleniem
 
 1. Warto przygotować spokojne miejsce, notatnik oraz coś do pisania

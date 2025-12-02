@@ -52,8 +52,6 @@
 
 - Testowanie endpointów w Postmanie
 
-- Tworzenie testów automatycznych
-
 - Dobre praktyki testowania API
 
 8. Podsumowanie i Q&A
